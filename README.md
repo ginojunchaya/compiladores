@@ -1,9 +1,5 @@
-compiladores
-============
+# Tarea 1
 
-Compiladores FPUNA
-
-Autor: Julio Paciello
-
-Para compilar: gcc anlex.c tablaSimbolos.c -o anlex
-
+Integrantes: 
+  - Mabel Del Rocio Santacruz Sosa CI: 5.004.580
+  - Gino Junchaya CI: 7.499.674
