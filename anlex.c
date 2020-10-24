@@ -305,7 +305,7 @@ void palabra_reservada(char id []){
        	error(cad);
     }
 }
-int main(int argc,char* args[])
+/* int main(int argc,char* args[])
 {
 	// inicializar analizador lexico
 	
@@ -411,4 +411,4 @@ int main(int argc,char* args[])
 	}
 
 	return 0;
-}
+} */
