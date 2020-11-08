@@ -272,7 +272,7 @@ void attribute_value(int syncset[]){
 }
 
 
-int main (int argc,char* args[]){
+/* int main (int argc,char* args[]){
     if(argc > 1){
         if (!(archivo=fopen(args[1],"rt"))){
             printf("El archivo no ha sido encontrado.\n");
@@ -289,4 +289,4 @@ int main (int argc,char* args[]){
     }
 
     return 0;
-}
+} */
